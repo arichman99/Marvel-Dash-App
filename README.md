@@ -38,7 +38,7 @@ Discover insights into your favorite Marvel characters!...
 	- **Output**: View appearances (bar), trends (line), connections (network), and titles (word cloud).
 
 ## Repository structure
-
+```
 marvel_dash_app/
 ├── .env.example
 ├── marvel_dash_app.ipynb
@@ -47,7 +47,7 @@ marvel_dash_app/
 ├── requirements.txt
 ├── README.md
 ├── license.txt
-
+```
 ## Data sources
 	Marvel Comics API: Dynamic data on characters, comics, events.
 	Static CSV: data/marvel_data.csv for offline use.
